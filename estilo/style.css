@@ -32,6 +32,7 @@ div#imagem{
     height: 200px;
 }
 #formulario{
+    
     padding: 10px;    
 }
 input#nome, #senha{
@@ -44,5 +45,8 @@ input#nome:hover{
 }
 input#senha:hover{
     background-color:#49a09d50 ;
+}
+label{
+    font-size: 0.6em;
 }
 
